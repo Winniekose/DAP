@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main()
+{
+char name; 
+printf( " Name: Winnie");
+int age;
+printf("\n "" Age : 20yrs");
+float height;
+printf ( " \n""  Height : 1.5m");
+printf( " \n""Hello am Winnie, 20 years old and 1.5m tall" , age , height);
+	return 0;
+}
